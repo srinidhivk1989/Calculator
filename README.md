@@ -6,7 +6,9 @@ This simple application allows the user to Perform basic calculations such as ad
 Technologies Used:
 
 JavaScript (and jQuery)
+
 CSS (and Bootstrap)
+
 HTML
 
 URL:
