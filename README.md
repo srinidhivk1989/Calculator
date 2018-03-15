@@ -5,11 +5,11 @@ This simple application allows the user to Perform basic calculations such as ad
 
 Technologies Used:
 
-JavaScript (and jQuery)
+.JavaScript (and jQuery)
 
-CSS (and Bootstrap)
+.CSS (and Bootstrap)
 
-HTML
+.HTML
 
 URL:
 
